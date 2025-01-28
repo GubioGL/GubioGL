@@ -1,16 +1,34 @@
-## Hi there 👋
+## [About Me](https://gubiogl.github.io/home/About-me.html)
 
-<!--
-**GubioGL/GubioGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Phd studenty with focused on applying quantum and classical artificial intelligence to solve optimization problems and differential equations.
 
-Here are some ideas to get you started:
+## Key Skills
+- 🖥️ Quantum Computing: Continuous variable quantum computing
+- 🌌 Quantum Machine Learning: Quantum neural network
+- 💡 Machine Learning: Pandas, seaborn, matplotlib, Scikit-learn, other
+- 🧠 Neural Networks: TensorFlow, PyTorch
+- 🎯 Problem Solving: Hard problems in physics, quantum mechanics, algebra, and advanced math. Numerical methods for solving differential equations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Language
+
+- 🐍 Python (+3 years)
+- 🖋️ C++ (~1 year)
+- ☕ Java (~6 months)
+
+## My programming work
+
+- [Repository about Pytorch ](https://gubiogl.github.io/Aprendendo_pytorch/)
+
+  In this repository there are some introductory steps with step-by-step instructions on how to program a neural network for regression and classification problems, using CPU and GPU.
+  
+- [Learning Machine Learning](https://gubiogl.github.io/Phd_ML/)
+
+  This repository is dedicated to my study of Machine Learning.
+  
+
+
+## Contact
+- 📍UFSCar, São Carlos, SP, Brasil.
+- 📧 Email: gubiojogo@hotmail.com
+- 🔗 [Linkedin](https://www.linkedin.com/in/gubio-gomes-de-lima-a99973106/)
+- 🔗 [GitHub Portfolio](https://github.com/GubioGL/)
