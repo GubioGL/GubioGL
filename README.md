@@ -1,6 +1,6 @@
 ## [About Me](https://gubiogl.github.io/home/About-me.html)
 
-I am Phd studenty with focused on applying quantum and classical artificial intelligence to solve optimization problems and differential equations.
+Doctor in Physics focused on applying classical and quantum artificial intelligence to solve optimization problems and differential equations. Researcher in a quantum communication company working on post-processing algorithms for continuous-variable quantum communication.
 
 ## Key Skills
 - 🖥️ Quantum Computing: Continuous variable quantum computing
@@ -11,7 +11,7 @@ I am Phd studenty with focused on applying quantum and classical artificial inte
 
 ## Programming Language
 
-- 🐍 Python (+4 years)
+- 🐍 Python (+6 years)
 - 🖋️ C++ (~1 year)
 - ☕ Java (~6 months)
 
@@ -33,9 +33,20 @@ I am Phd studenty with focused on applying quantum and classical artificial inte
 
   This repository is a series of Jupyter notebooks dedicated to teaching how to simulate Partially Coherent Beam in Python.
 
+- [Quantum-Neural-Networks-in-Regression-Tasks](https://github.com/GubioGL/Quantum-Neural-Networks-in-Regression-Tasks)
+
+  Repository accompanying the article "Assessing the Advantages and Limitations of Quantum Neural Networks in Regression Tasks."
+
+- [Pinn-inverse-for-opem-quantum-system](https://github.com/GubioGL/Pinn-inverse-for-opem-quantum-system)
+
+  Repository for the article "Inverse Physics-informed Neural Networks Procedure for Detecting Noise in Open Quantum Systems."
+
+- [Notebooks_NN_Physics](https://github.com/GubioGL/Notebooks_NN_Physics)
+
+  Repository for the article "Introduction to Neural Networks for Physicists."
+
   
 ## Contact
-- 📍UFSCar, São Carlos, SP, Brasil.
-- 📧 Email: gubiojogo@hotmail.com
+- 📍SENAI CIMATE, Salvador, Bahia, Brasil.
 - 🔗 [Linkedin](https://www.linkedin.com/in/gubio-gomes-de-lima-a99973106/)
 - 🔗 [GitHub Portfolio](https://github.com/GubioGL/)
