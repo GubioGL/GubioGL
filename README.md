@@ -1,52 +1,74 @@
-## [About Me](https://gubiogl.github.io/home/About-me.html)
+<div align="center">
 
-Doctor in Physics focused on applying classical and quantum artificial intelligence to solve optimization problems and differential equations. Researcher in a quantum communication company working on post-processing algorithms for continuous-variable quantum communication.
+# Olá, eu sou o Gubio 👋⚛️
 
-## Key Skills
-- 🖥️ Quantum Computing: Continuous variable quantum computing
-- 🌌 Quantum Machine Learning: Quantum neural network
-- 💡 Machine Learning: Pandas, seaborn, matplotlib, Scikit-learn, other
-- 🧠 Neural Networks: TensorFlow, PyTorch
-- 🎯 Problem Solving: Hard problems in physics, quantum mechanics, algebra, and advanced math. Numerical methods for solving differential equations
+**Doutor em Física · IA clássica e quântica · Comunicação quântica**
 
-## Programming Language
+Pesquisador no **SENAI CIMATEC** (Salvador, BA), onde desenvolvo algoritmos de pós-processamento para geradores quânticos de números aleatórios (QRNG).
+Doutorado na **UFSCar**, com foco em redes neurais clássicas e quânticas para equações diferenciais, problemas inversos e otimização.
 
-- 🐍 Python (+6 years)
-- 🖋️ C++ (~1 year)
-- ☕ Java (~6 months)
+[![Site](https://img.shields.io/badge/🌐_Site-gubiogl.github.io/home-6d4aff?style=for-the-badge)](https://gubiogl.github.io/home/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=IVNYrg0AAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gubio-gomes-de-lima-a99973106/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4551-3251)
+[![Lattes](https://img.shields.io/badge/Lattes-1f5fa8?style=for-the-badge)](http://lattes.cnpq.br/5309772213422223)
 
-## My programming work
+</div>
 
-- [Repository about Pytorch ](https://gubiogl.github.io/Aprendendo_pytorch/)
+---
 
-  In this repository there are some introductory steps with step-by-step instructions on how to program a neural network for regression and classification problems, using CPU and GPU.
-  
-- [Learning Machine Learning](https://github.com/GubioGL/MachineLearning)
+## 🚀 Projetos principais
 
-  This repository is dedicated to my study of Machine Learning.
-  
-- [Q-BASIC](https://github.com/GubioGL/Q-BASIC)
+| | Projeto | Sobre |
+|:-:|---|---|
+| 🎲 | **QRNG · Framework de pós-processamento** <br><sub>SENAI CIMATEC · código privado</sub> | Transforma as medidas brutas de um gerador quântico de números aleatórios em números aleatórios certificáveis: estimativa de entropia, extração de aleatoriedade e testes estatísticos. Pacote Python com testes automatizados e documentação. |
+| ⚛️ | **[Q-BASIC](https://github.com/GubioGL/Q-BASIC)** <br>[![PyPI](https://img.shields.io/pypi/v/Q-BASIC?label=PyPI&color=009739)](https://pypi.org/project/Q-BASIC/) | Simulador quântico brasileiro e open-source, com API em português. Circuitos, óptica quântica e dinâmica (Schrödinger e Lindblad), com backends NumPy, PyTorch, CuPy e Numba. |
+| 🐱 | **[Quantum Learning](https://gubiogl.github.io/q-learning/)** | Plataforma gratuita e gamificada para aprender computação quântica do zero: 7 cursos, 52 habilidades e 333 mini-desafios, com Python rodando no navegador. PT · EN · ES. |
+| 🐝 | **[Machine learning em biologia](https://github.com/GubioGL/Machine-learning-in-biology)** | Classificadores, testes de permutação e SHAP para medir a perda de identidade ecológica em assembleias de vespas sociais do Pantanal, Cerrado e várzea. |
+| 📘 | **[Fundamentos da computação quântica](https://github.com/GubioGL/Fundadamentos-da-computa-o-quantica)** | Tutoriais do curso de pós-graduação do SENAI CIMATEC. |
 
-  This repository contains my own programming language for quantum computation, quantum algorithm and quantum optics simulation make in Python.
-  
-- [Feixes-pacialmente-coerentes](https://github.com/GubioGL/Q-BASIC)
+---
 
-  This repository is a series of Jupyter notebooks dedicated to teaching how to simulate Partially Coherent Beam in Python.
+## 📄 Publicações
 
-- [Quantum-Neural-Networks-in-Regression-Tasks](https://github.com/GubioGL/Quantum-Neural-Networks-in-Regression-Tasks)
+### ✍️ Como primeiro autor
 
-  Repository accompanying the article "Assessing the Advantages and Limitations of Quantum Neural Networks in Regression Tasks."
+- **Inverse physics-informed neural networks procedure for detecting noise in open quantum systems** — *Physics Letters A* (2026) · [artigo](https://www.sciencedirect.com/science/article/pii/S0375960126002240) · [arXiv](https://arxiv.org/abs/2507.12552) · [código](https://github.com/GubioGL/PINNverse_for_open_quantum_system)
+  <br><sub>Uma PINN inversa resolve a equação de Lindblad e descobre quais canais de ruído atuam num sistema quântico aberto, e com que intensidade.</sub>
+- **Assessing the advantages and limitations of quantum neural networks in regression tasks** — arXiv (2025) · [arXiv](https://arxiv.org/abs/2509.00854) · [código](https://github.com/GubioGL/Quantum-Neural-Networks-in-Regression-Tasks)
+  <br><sub>Comparação justa entre redes quânticas e clássicas: a QNN erra até 7 ordens de grandeza menos numa senoide, mas perde na função degrau. "No Free Lunch" na prática.</sub>
+- **Partially coherent beam: theory and simulation** — arXiv (2024) · [arXiv](https://arxiv.org/abs/2403.09306) · [notebooks](https://github.com/GubioGL/Feixes-pacialmente-coerentes)
+  <br><sub>Texto didático, vindo do mestrado, sobre como simular feixes de luz parcialmente coerentes em Python.</sub>
 
-- [Pinn-inverse-for-opem-quantum-system](https://github.com/GubioGL/Pinn-inverse-for-opem-quantum-system)
+### 🤝 Como coautor
 
-  Repository for the article "Inverse Physics-informed Neural Networks Procedure for Detecting Noise in Open Quantum Systems."
+- **MixFunn: a neural network for differential equations with improved generalization and interpretability** — arXiv (2025) · [arXiv](https://arxiv.org/abs/2503.22528)
+- **Introduction to neural networks for physicists** · [notebooks](https://github.com/GubioGL/Notebooks_NN_Physics)
 
-- [Notebooks_NN_Physics](https://github.com/GubioGL/Notebooks_NN_Physics)
+### 🐝 Biologia · a caminho
 
-  Repository for the article "Introduction to Neural Networks for Physicists."
+- **Not all paper dissolves in water: social wasps (Vespidae: Polistinae) in protected areas of Mato Grosso do Sul** · [dados e scripts](https://github.com/GubioGL/Biodiversity_suplementar)
+- **Unearthing ghosts: historical and contemporary records of social wasps (Vespidae: Polistinae) in Mato Grosso do Sul, Brazil**
 
-  
-## Contact
-- 📍SENAI CIMATE, Salvador, Bahia, Brasil.
-- 🔗 [Linkedin](https://www.linkedin.com/in/gubio-gomes-de-lima-a99973106/)
-- 🔗 [GitHub Portfolio](https://github.com/GubioGL/)
+---
+
+## 🧰 Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-00BFA5?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+<div align="center">
+
+<sub>⚛️ Aberto a colaborações em IA quântica, PINNs, comunicação quântica e ensino de computação quântica.</sub>
+
+</div>
