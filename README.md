@@ -1,4 +1,5 @@
 <div align="center">
+  
 **Doutor em Física · IA clássica e quântica · Comunicação quântica**
 
 Pesquisador no **SENAI CIMATEC** (Salvador, BA) e Posdoc no CBPF, onde desenvolvo algoritmos de pós-processamento para geradores quânticos de números aleatórios (QRNG).
