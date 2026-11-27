@@ -1,10 +1,7 @@
 <div align="center">
-
-# Olá, eu sou o Gubio 👋⚛️
-
 **Doutor em Física · IA clássica e quântica · Comunicação quântica**
 
-Pesquisador no **SENAI CIMATEC** (Salvador, BA), onde desenvolvo algoritmos de pós-processamento para geradores quânticos de números aleatórios (QRNG).
+Pesquisador no **SENAI CIMATEC** (Salvador, BA) e Posdoc no CBPF, onde desenvolvo algoritmos de pós-processamento para geradores quânticos de números aleatórios (QRNG).
 Doutorado na **UFSCar**, com foco em redes neurais clássicas e quânticas para equações diferenciais, problemas inversos e otimização.
 
 [![Site](https://img.shields.io/badge/🌐_Site-gubiogl.github.io/home-6d4aff?style=for-the-badge)](https://gubiogl.github.io/home/)
